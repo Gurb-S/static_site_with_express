@@ -1,0 +1,18 @@
+{
+   "projects": [
+        {
+            "id": 0,
+            "project_name": "name",
+            "description": "description",
+            "technologies": "tech used",
+            "live_link": "link",
+            "github_link": "github_link",
+            "img_urls": {                
+                "main_pic": "img",
+                "large_pic": "img",
+                "extra_pic": "img",
+                "mobileFirst_pic": "img"
+            }
+        }
+    ]
+}
