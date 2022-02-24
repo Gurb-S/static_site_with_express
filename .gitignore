@@ -2,5 +2,8 @@
 example-html
 mockups
 
+#testimages
+public/images/rawfiles
+
 #Dependency
 node_modules/ 
