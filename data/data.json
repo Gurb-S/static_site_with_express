@@ -2,7 +2,63 @@
    "projects": [
         {
             "id": 0,
-            "project_name": "name",
+            "project_name": "A Random Quote Generator",
+            "description": "An app that generates a random quote from a list of quotes with the click of a button",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "link",
+            "github_link": "github_link",
+            "img_urls": {                
+                "main_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_main",
+                "large_pic": "img",
+                "extra_pic": "img",
+                "mobileFirst_pic": "img"
+            }
+        },
+        {
+            "id": 1,
+            "project_name": "Wheel of Success",
+            "description": "description",
+            "technologies": "tech used",
+            "live_link": "link",
+            "github_link": "github_link",
+            "img_urls": {                
+                "main_pic": "img",
+                "large_pic": "img",
+                "extra_pic": "img",
+                "mobileFirst_pic": "img"
+            }
+        },
+        {
+            "id": 2,
+            "project_name": "List Pagination and Filtering",
+            "description": "description",
+            "technologies": "tech used",
+            "live_link": "link",
+            "github_link": "github_link",
+            "img_urls": {                
+                "main_pic": "img",
+                "large_pic": "img",
+                "extra_pic": "img",
+                "mobileFirst_pic": "img"
+            }
+        },
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "description",
+            "technologies": "tech used",
+            "live_link": "link",
+            "github_link": "github_link",
+            "img_urls": {                
+                "main_pic": "img",
+                "large_pic": "img",
+                "extra_pic": "img",
+                "mobileFirst_pic": "img"
+            }
+        },
+        {
+            "id": 4,
+            "project_name": "Connect to and use API",
             "description": "description",
             "technologies": "tech used",
             "live_link": "link",
