@@ -4,7 +4,7 @@
             "id": 0,
             "project_name": "A Random Quote Generator",
             "description": "An app that generates a random quote from a list of quotes with the click of a button",
-            "technologies": ["HTML","CSS","JavaScript"],
+            "technologies": ["HTML","CSS","JavaScript", "test"],
             "live_link": "link",
             "github_link": "github_link",
             "img_urls": {                
