@@ -28,15 +28,15 @@ block content
             li= tech 
 
         //- Add the href values to the links below
-        a.btn-link(href='') Live Demo
-        a.btn-link(href='') GitHub Repo
+        a.btn-link(href=`${live_link}` target="_blank") Live Demo
+        a.btn-link(href=`${github_link}` target="_blank") GitHub Repo
 
     .project-img-box.box
 
       //- Replace the URLs in the src attributes below with interpolated template literals to dynamically add your project images, and add descriptions to the alt attributes
-      img.project-img(src='https://placehold.it/1200x550', alt='')
-      img.project-img(src='https://placehold.it/1200x550', alt='')
-      img.project-img(src='https://placehold.it/1200x550', alt='')
+      img.project-img(src=`${img_urls.main_pic}`, alt='main picture of project')
+      img.project-img(src=`${img_urls.large_pic}`, alt='a large picture of project')
+      img.project-img(src=`${img_urls.extra_pic}`, alt='extra picture of project')
 
     nav.nav
       a(href='/')
