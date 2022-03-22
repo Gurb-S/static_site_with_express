@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const { projects } = require('../data/data.json');
 
-router.get('/:id',(req,res)=>{
+router.get(`/:id`,(req,res)=>{
     const { id } = req.params;
     //console.log(projects[id]);
     const { project_name } = projects[id];
