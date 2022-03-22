@@ -12,6 +12,7 @@ const aboutRuote = require('./routes/about')
 const projectRoute = require('./routes/projects');
 
 app.use(mainRoutes);
+app.use(aboutRuote);
 app.use('/projects',projectRoute)
 
 app.listen(3000, () =>{
