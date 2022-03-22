@@ -5,69 +5,69 @@
             "project_name": "A Random Quote Generator",
             "description": "An app that generates a random quote from a list of quotes with the click of a button",
             "technologies": ["HTML","CSS","JavaScript", "test"],
-            "live_link": "link",
-            "github_link": "github_link",
+            "live_link": "https://teamtreehouse.com/signin?return_to=%2Fhome",
+            "github_link": "https://github.com/login",
             "img_urls": {                
-                "main_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_main",
-                "large_pic": "img",
-                "extra_pic": "img",
-                "mobileFirst_pic": "img"
+                "main_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_main.png",
+                "large_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_large.png",
+                "extra_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_mobile_first.png"
             }
         },
         {
             "id": 1,
             "project_name": "Wheel of Success",
-            "description": "description",
-            "technologies": "tech used",
+            "description": "this wheel gives you success",
+            "technologies": ["HTML","CSS","JavaScript", "test2"],
             "live_link": "link",
             "github_link": "github_link",
             "img_urls": {                
-                "main_pic": "img",
-                "large_pic": "img",
-                "extra_pic": "img",
-                "mobileFirst_pic": "img"
+                "main_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_main.png",
+                "large_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_large.png",
+                "extra_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_extra.png",
+                "mobileFirst_pic": ""
             }
         },
         {
             "id": 2,
             "project_name": "List Pagination and Filtering",
-            "description": "description",
-            "technologies": "tech used",
+            "description": "pics of random people",
+            "technologies": ["HTML","CSS","JavaScript", "test3"],
             "live_link": "link",
             "github_link": "github_link",
             "img_urls": {                
-                "main_pic": "img",
-                "large_pic": "img",
-                "extra_pic": "img",
-                "mobileFirst_pic": "img"
+                "main_pic": "/static/images/project_pics/random_users/random_users_main.png",
+                "large_pic": "/static/images/project_pics/random_users/random_users_large.png",
+                "extra_pic": "/static/images/project_pics/random_users/random_users_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/random_users/random_users_mobile_first.png"
             }
         },
         {
             "id": 3,
             "project_name": "Interactive Form",
-            "description": "description",
-            "technologies": "tech used",
+            "description": "form that is interactive",
+            "technologies": ["HTML","CSS","JavaScript", "test4"],
             "live_link": "link",
             "github_link": "github_link",
             "img_urls": {                
-                "main_pic": "img",
-                "large_pic": "img",
-                "extra_pic": "img",
-                "mobileFirst_pic": "img"
+                "main_pic": "/static/images/project_pics/interactive_signup/interactive_form_main.png",
+                "large_pic": "/static/images/project_pics/interactive_signup/interactive_form_large.png",
+                "extra_pic": "/static/images/project_pics/interactive_signup/interactive_form_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/interactive_signup/interactive_form_mobile_first.png"
             }
         },
         {
             "id": 4,
             "project_name": "Connect to and use API",
-            "description": "description",
-            "technologies": "tech used",
+            "description": "api with a bunch of people",
+            "technologies": ["HTML","CSS","JavaScript", "test5"],
             "live_link": "link",
             "github_link": "github_link",
             "img_urls": {                
-                "main_pic": "img",
-                "large_pic": "img",
-                "extra_pic": "img",
-                "mobileFirst_pic": "img"
+                "main_pic": "/static/images/project_pics/connect_to_api/connect_to_api.png",
+                "large_pic": "/static/images/project_pics/connect_to_api/connect_to_api_large.png",
+                "extra_pic": "/static/images/project_pics/connect_to_api/connect_to_api_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/connect_to_api/connect_to_api_mobile_first.png"
             }
         }
     ]
