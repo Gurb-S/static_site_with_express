@@ -46,7 +46,7 @@
             "id": 3,
             "project_name": "Interactive Form",
             "description": "form that is interactive",
-            "technologies": ["HTML","CSS","JavaScript"],
+            "technologies": ["HTML","CSS","JavaScript","GIT"],
             "live_link": "https://gurb-s.github.io/interactive_signup_form/",
             "github_link": "https://github.com/Gurb-S/interactive_signup_form",
             "img_urls": {                
@@ -60,7 +60,7 @@
             "id": 4,
             "project_name": "Connect to and use API",
             "description": "api with a bunch of people",
-            "technologies": ["HTML","CSS","JavaScript"],
+            "technologies": ["HTML","CSS","JavaScript","GIT"],
             "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
             "github_link": "https://github.com/Gurb-S/connect_to_and_use_a_public_api",
             "img_urls": {                
