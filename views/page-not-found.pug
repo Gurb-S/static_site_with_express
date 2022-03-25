@@ -1,6 +1,8 @@
 extends layout.pug 
 
 block content 
-    h1= error.message 
-    h2= error.status 
-    pre= error.stack 
+  .not-found-page
+    h1 404 Error -- Page Not Found 
+    p.not-found The page you are looking for does not exist, please click below to be taken back to the home page 
+    a.home(href="/") Home  
+     
