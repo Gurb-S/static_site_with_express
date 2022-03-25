@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "A Random Quote Generator",
-            "description": "An app that generates a random quote from a list of quotes with the click of a button",
+            "description": "An app that generates a random quote from a list of quotes with the click of a button.",
             "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "https://gurb-s.github.io/TechDegree-Project-4/",
             "github_link": "https://github.com/Gurb-S/TechDegree-Project-4",
@@ -17,7 +17,7 @@
         {
             "id": 1,
             "project_name": "Wheel of Success",
-            "description": "this wheel gives you success",
+            "description": "This program take an array of different phrases and displays one of them on the screen when the user clicks the button to start the game.",
             "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "https://gurb-s.github.io/TechDegree-Project-5/",
             "github_link": "https://github.com/Gurb-S/TechDegree-Project-5",
@@ -31,7 +31,7 @@
         {
             "id": 2,
             "project_name": "List Pagination and Filtering",
-            "description": "pics of random people",
+            "description": "This project displays an array of objects of random users. The info displyed include profile picture, first and last name, email address, and date joined. It also has the functionality to search users by name.",
             "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "https://gurb-s.github.io/TechDegree-Project-6/",
             "github_link": "https://github.com/Gurb-S/TechDegree-Project-6",
@@ -45,7 +45,7 @@
         {
             "id": 3,
             "project_name": "Interactive Form",
-            "description": "form that is interactive",
+            "description": "This project takes a sign up form for a Full Stack Conference and adds functionality for it using JavaScript. It adds form validation for the Name, Email, Activities, and payment information fields.",
             "technologies": ["HTML","CSS","JavaScript","GIT"],
             "live_link": "https://gurb-s.github.io/interactive_signup_form/",
             "github_link": "https://github.com/Gurb-S/interactive_signup_form",
@@ -59,7 +59,7 @@
         {
             "id": 4,
             "project_name": "Connect to and use API",
-            "description": "api with a bunch of people",
+            "description": "Takes data from the RandomUser API (https://randomuser.me/) and creates profiles and model windows for 12 users and adds a searchabiblity function to search through users.",
             "technologies": ["HTML","CSS","JavaScript","GIT"],
             "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
             "github_link": "https://github.com/Gurb-S/connect_to_and_use_a_public_api",
