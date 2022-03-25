@@ -271,6 +271,10 @@ nav a span {
   font-size: 125%;
 }
 
+.title{
+  text-shadow: 3px 3px 3px rgb(102, 98, 98);
+}
+
 .about-bio p {
   font-size: 15px;
   padding-top: 40px;
@@ -297,9 +301,15 @@ nav a span {
   margin: auto 0 5px 0;
   padding: 0.85em 1em;
   background-color: #333;
-  border: 1px solid transparent;
+  border: 1px solid #000;
+  transition: 0.4s ease-in;
 }
 
+.btn-link:hover{
+  background-color: lightpink;
+  border: none;
+  color: darkblue;
+}
 
 /* 
   Tablet layout styles 
