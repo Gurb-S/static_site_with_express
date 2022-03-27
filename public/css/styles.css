@@ -307,7 +307,7 @@ nav a span {
 
 .btn-link:hover{
   background-color: lightpink;
-  border: none;
+  border: 1px solid transparent;
   color: darkblue;
 }
 
