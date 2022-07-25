@@ -74,7 +74,7 @@
             "id": 5,
             "project_name": "SQL Library Manager",
             "description": "An book manager that allows you to create, update, and delete books.",
-            "technologies": ["SQL","NODE","GIT"],
+            "technologies": ["SQL","NODE","PUG","GIT"],
             "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
             "github_link": "https://github.com/Gurb-S/sql_library_manager",
             "img_urls": {                
