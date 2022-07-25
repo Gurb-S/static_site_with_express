@@ -69,6 +69,20 @@
                 "extra_pic": "/static/images/project_pics/connect_to_api/connect_to_api_extra.png",
                 "mobileFirst_pic": "/static/images/project_pics/connect_to_api/connect_to_api_mobile_first.png"
             }
+        },
+        {
+            "id": 5,
+            "project_name": "Full Stack App with REST API",
+            "description": "A full stack application that utilizes Node.js to create a REST API to handle user data and course data. React was used as a front to provide an interface for users to create and edit courses.",
+            "technologies": ["REACT","NODE","REST API","GIT"],
+            "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
+            "github_link": "https://github.com/Gurb-S/connect_to_and_use_a_public_api",
+            "img_urls": {                
+                "main_pic": "/static/images/project_pics/full_stack_app/full_stack_app_main.png",
+                "large_pic": "/static/images/project_pics/full_stack_app/full_stack_app_large.png",
+                "extra_pic": "/static/images/project_pics/full_stack_app/full_stack_app_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/full_stack_app/full_stack_app_mobile_first.png"
+            }
         }
     ]
 }
