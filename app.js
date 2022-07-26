@@ -34,7 +34,7 @@ app.use((err,req,res,next)=>{
     }
 })
 
-app.listen(5050, () =>{
+app.listen(process.env.PORT || 5050, () =>{
     console.log('The app is running on localhost:5050');
 });
 
