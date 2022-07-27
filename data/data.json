@@ -89,7 +89,7 @@
             "project_name": "React Photo Gallery",
             "description": "An app that sends a request to the Flickr api and displays images for the item searched.",
             "technologies": ["REACT","AXIOS","3RD PARTY API","GIT"],
-            "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
+            "live_link": "https://display-photo-gallery-react.herokuapp.com/",
             "github_link": "https://github.com/Gurb-S/react_photo_gallary_app.git",
             "img_urls": {                
                 "main_pic": "/static/images/project_pics/react_photo_gallery/react_photo_gallery_main.png",
@@ -103,7 +103,7 @@
             "project_name": "Full Stack App with REST API",
             "description": "A full stack application that utilizes Node.js to create a REST API to handle user data and course data. React was used as a front to provide an interface for users to create and edit courses.",
             "technologies": ["REACT","NODE","REST API","GIT"],
-            "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
+            "live_link": "https://courses-react-app.herokuapp.com/",
             "github_link": "https://github.com/Gurb-S/static_site_with_express",
             "img_urls": {                
                 "main_pic": "/static/images/project_pics/full_stack_app/full_stack_app_main.png",
