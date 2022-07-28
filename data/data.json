@@ -2,90 +2,20 @@
    "projects": [
         {
             "id": 0,
-            "project_name": "A Random Quote Generator",
-            "description": "An app that generates a random quote from a list of quotes with the click of a button.",
-            "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "https://gurb-s.github.io/TechDegree-Project-4/",
-            "github_link": "https://github.com/Gurb-S/TechDegree-Project-4",
+            "project_name": "Full Stack App with REST API",
+            "description": "A full stack application that utilizes Node.js to create a REST API to handle user data and course data. React was used as a front to provide an interface for users to create and edit courses.",
+            "technologies": ["REACT","NODE","REST API","GIT"],
+            "live_link": "https://courses-react-app.herokuapp.com/",
+            "github_link": "https://github.com/Gurb-S/static_site_with_express",
             "img_urls": {                
-                "main_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_main.png",
-                "large_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_large.png",
-                "extra_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_extra.png",
-                "mobileFirst_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_mobile_first.png"
+                "main_pic": "/static/images/project_pics/full_stack_app/full_stack_app_main.png",
+                "large_pic": "/static/images/project_pics/full_stack_app/full_stack_app_large.png",
+                "extra_pic": "/static/images/project_pics/full_stack_app/full_stack_app_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/full_stack_app/full_stack_app_mobile_first.png"
             }
         },
         {
             "id": 1,
-            "project_name": "Wheel of Success",
-            "description": "This program take an array of different phrases and displays one of them on the screen when the user clicks the button to start the game.",
-            "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "https://gurb-s.github.io/TechDegree-Project-5/",
-            "github_link": "https://github.com/Gurb-S/TechDegree-Project-5",
-            "img_urls": {                
-                "main_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_main.png",
-                "large_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_large.png",
-                "extra_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_extra.png",
-                "mobileFirst_pic": ""
-            }
-        },
-        {
-            "id": 2,
-            "project_name": "List Pagination and Filtering",
-            "description": "This project displays an array of objects of random users. The info displyed include profile picture, first and last name, email address, and date joined. It also has the functionality to search users by name.",
-            "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "https://gurb-s.github.io/TechDegree-Project-6/",
-            "github_link": "https://github.com/Gurb-S/TechDegree-Project-6",
-            "img_urls": {                
-                "main_pic": "/static/images/project_pics/random_users/random_users_main.png",
-                "large_pic": "/static/images/project_pics/random_users/random_users_large.png",
-                "extra_pic": "/static/images/project_pics/random_users/random_users_extra.png",
-                "mobileFirst_pic": "/static/images/project_pics/random_users/random_users_mobile_first.png"
-            }
-        },
-        {
-            "id": 3,
-            "project_name": "Interactive Form",
-            "description": "This project takes a sign up form for a Full Stack Conference and adds functionality for it using JavaScript. It adds form validation for the Name, Email, Activities, and payment information fields.",
-            "technologies": ["HTML","CSS","JavaScript","GIT"],
-            "live_link": "https://gurb-s.github.io/interactive_signup_form/",
-            "github_link": "https://github.com/Gurb-S/interactive_signup_form",
-            "img_urls": {                
-                "main_pic": "/static/images/project_pics/interactive_signup/interactive_form_main.png",
-                "large_pic": "/static/images/project_pics/interactive_signup/interactive_form_large.png",
-                "extra_pic": "/static/images/project_pics/interactive_signup/interactive_form_extra.png",
-                "mobileFirst_pic": "/static/images/project_pics/interactive_signup/interactive_form_mobile_first.png"
-            }
-        },
-        {
-            "id": 4,
-            "project_name": "Connect to and use API",
-            "description": "Takes data from the RandomUser API (https://randomuser.me/) and creates profiles and model windows for 12 users and adds a searchabiblity function to search through users.",
-            "technologies": ["HTML","CSS","JavaScript","GIT"],
-            "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
-            "github_link": "https://github.com/Gurb-S/connect_to_and_use_a_public_api",
-            "img_urls": {                
-                "main_pic": "/static/images/project_pics/connect_to_api/connect_to_api.png",
-                "large_pic": "/static/images/project_pics/connect_to_api/connect_to_api_large.png",
-                "extra_pic": "/static/images/project_pics/connect_to_api/connect_to_api_extra.png",
-                "mobileFirst_pic": "/static/images/project_pics/connect_to_api/connect_to_api_mobile_first.png"
-            }
-        },
-        {
-            "id": 5,
-            "project_name": "SQL Library Manager",
-            "description": "An book manager that allows you to create, update, and delete books.",
-            "technologies": ["SQL","NODE","PUG","GIT"],
-            "live_link": "",
-            "github_link": "https://github.com/Gurb-S/sql_library_manager",
-            "img_urls": {                
-                "main_pic": "/static/images/project_pics/sql_library_manager/sql_library_manager_main.png",
-                "large_pic": "/static/images/project_pics/sql_library_manager/sql_library_manager_large.png",
-                "extra_pic": "/static/images/project_pics/sql_library_manager/sql_library_manager_extra.png",
-                "mobileFirst_pic": "/static/images/project_pics/react_photo_gallery/react_photo_gallery_mobile_first.png"
-            }
-        },
-        {
-            "id": 6,
             "project_name": "React Photo Gallery",
             "description": "An app that sends a request to the Flickr api and displays images for the item searched.",
             "technologies": ["REACT","AXIOS","3RD PARTY API","GIT"],
@@ -99,17 +29,87 @@
             }
         },
         {
-            "id": 7,
-            "project_name": "Full Stack App with REST API",
-            "description": "A full stack application that utilizes Node.js to create a REST API to handle user data and course data. React was used as a front to provide an interface for users to create and edit courses.",
-            "technologies": ["REACT","NODE","REST API","GIT"],
-            "live_link": "https://courses-react-app.herokuapp.com/",
-            "github_link": "https://github.com/Gurb-S/static_site_with_express",
+            "id": 2,
+            "project_name": "SQL Library Manager",
+            "description": "An book manager that allows you to create, update, and delete books.",
+            "technologies": ["SQL","NODE","PUG","GIT"],
+            "live_link": "",
+            "github_link": "https://github.com/Gurb-S/sql_library_manager",
             "img_urls": {                
-                "main_pic": "/static/images/project_pics/full_stack_app/full_stack_app_main.png",
-                "large_pic": "/static/images/project_pics/full_stack_app/full_stack_app_large.png",
-                "extra_pic": "/static/images/project_pics/full_stack_app/full_stack_app_extra.png",
-                "mobileFirst_pic": "/static/images/project_pics/full_stack_app/full_stack_app_mobile_first.png"
+                "main_pic": "/static/images/project_pics/sql_library_manager/sql_library_manager_main.png",
+                "large_pic": "/static/images/project_pics/sql_library_manager/sql_library_manager_large.png",
+                "extra_pic": "/static/images/project_pics/sql_library_manager/sql_library_manager_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/react_photo_gallery/react_photo_gallery_mobile_first.png"
+            }
+        },
+        {
+            "id": 3,
+            "project_name": "Connect to and use API",
+            "description": "Takes data from the RandomUser API (https://randomuser.me/) and creates profiles and model windows for 12 users and adds a searchabiblity function to search through users.",
+            "technologies": ["HTML","CSS","JavaScript","GIT"],
+            "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
+            "github_link": "https://github.com/Gurb-S/connect_to_and_use_a_public_api",
+            "img_urls": {                
+                "main_pic": "/static/images/project_pics/connect_to_api/connect_to_api.png",
+                "large_pic": "/static/images/project_pics/connect_to_api/connect_to_api_large.png",
+                "extra_pic": "/static/images/project_pics/connect_to_api/connect_to_api_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/connect_to_api/connect_to_api_mobile_first.png"
+            }
+        },
+        {
+            "id": 4,
+            "project_name": "Interactive Form",
+            "description": "This project takes a sign up form for a Full Stack Conference and adds functionality for it using JavaScript. It adds form validation for the Name, Email, Activities, and payment information fields.",
+            "technologies": ["HTML","CSS","JavaScript","GIT"],
+            "live_link": "https://gurb-s.github.io/interactive_signup_form/",
+            "github_link": "https://github.com/Gurb-S/interactive_signup_form",
+            "img_urls": {                
+                "main_pic": "/static/images/project_pics/interactive_signup/interactive_form_main.png",
+                "large_pic": "/static/images/project_pics/interactive_signup/interactive_form_large.png",
+                "extra_pic": "/static/images/project_pics/interactive_signup/interactive_form_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/interactive_signup/interactive_form_mobile_first.png"
+            }
+        },
+        {
+            "id": 5,
+            "project_name": "List Pagination and Filtering",
+            "description": "This project displays an array of objects of random users. The info displyed include profile picture, first and last name, email address, and date joined. It also has the functionality to search users by name.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "https://gurb-s.github.io/TechDegree-Project-6/",
+            "github_link": "https://github.com/Gurb-S/TechDegree-Project-6",
+            "img_urls": {                
+                "main_pic": "/static/images/project_pics/random_users/random_users_main.png",
+                "large_pic": "/static/images/project_pics/random_users/random_users_large.png",
+                "extra_pic": "/static/images/project_pics/random_users/random_users_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/random_users/random_users_mobile_first.png"
+            }
+        },
+        {
+            "id": 6,
+            "project_name": "Wheel of Success",
+            "description": "This program take an array of different phrases and displays one of them on the screen when the user clicks the button to start the game.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "https://gurb-s.github.io/TechDegree-Project-5/",
+            "github_link": "https://github.com/Gurb-S/TechDegree-Project-5",
+            "img_urls": {                
+                "main_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_main.png",
+                "large_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_large.png",
+                "extra_pic": "/static/images/project_pics/wheel_of_success/wheel_of_success_extra.png",
+                "mobileFirst_pic": ""
+            }
+        },
+        {
+            "id": 7,
+            "project_name": "A Random Quote Generator",
+            "description": "An app that generates a random quote from a list of quotes with the click of a button.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "https://gurb-s.github.io/TechDegree-Project-4/",
+            "github_link": "https://github.com/Gurb-S/TechDegree-Project-4",
+            "img_urls": {                
+                "main_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_main.png",
+                "large_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_large.png",
+                "extra_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_extra.png",
+                "mobileFirst_pic": "/static/images/project_pics/quote_randomizer/quote_randomizer_mobile_first.png"
             }
         }
     ]
