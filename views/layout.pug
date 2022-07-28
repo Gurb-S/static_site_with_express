@@ -13,12 +13,15 @@ html(lang="en" dir="ltr")
     #my-info.sidebar
       .sidebar-info-box
         br
-        .thumbnail-box
-          img.thumbnail(src='/static/images/profile_pic/me.jpg', alt='img of me')
         .dev-intro-box
-          h5 Gurbakhash Sandhu
-          p Hi, thank you for stopping by! I am a distance runner, a cook, and an aspiring Full Stack JavaScript Developer. 
-          a(href='/about') About Me &rarr;
+          h5 Contact Me 
+          p 530-315-5032
+          .icon-div 
+            a.icons(href='mailto:gurbakhash.sandhu1@gmail.com' target='_blank') 
+              img.social(src="../static/icons/email.png", alt="Link to Email")
+            a.icons(href='https://github.com/Gurb-S' target="_blank")
+              img.social(src="../static/icons/github.png", alt="Link to Github")
+          a.me(href='/about') About Me &rarr;
 
     .wrapper
       .header
