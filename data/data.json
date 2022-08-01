@@ -33,7 +33,7 @@
             "project_name": "SQL Library Manager",
             "description": "A book managing app built on Node.js that allows a user to preform CRUD operations and filter through entries they have created.",
             "technologies": ["SQL","NODE","Express","PUG","GIT"],
-            "live_link": "",
+            "live_link": "https://manage-library-sql.herokuapp.com/books",
             "github_link": "https://github.com/Gurb-S/sql_library_manager",
             "img_urls": {                
                 "main_pic": "/static/images/project_pics/sql_library_manager/sql_library_manager_main.png",
