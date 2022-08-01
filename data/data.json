@@ -2,8 +2,8 @@
    "projects": [
         {
             "id": 0,
-            "project_name": "Full Stack App with REST API",
-            "description": "A full stack application that utilizes Node.js to create a REST API to handle user data and course data. React was used as a front to provide an interface for users to create and edit courses.",
+            "project_name": "Full Stack School Administration with REST API",
+            "description": "A web app that allows school administrators to create, read, update, and delete courses and all aspects of courses. Node.js was used to develop the REST API and handle user authentication to ensure courses are only accessed by authorized users.",
             "technologies": ["REACT","NODE","REST API","GIT"],
             "live_link": "https://courses-react-app.herokuapp.com/",
             "github_link": "https://github.com/Gurb-S/static_site_with_express",
@@ -17,7 +17,7 @@
         {
             "id": 1,
             "project_name": "React Photo Gallery",
-            "description": "An app that sends a request to the Flickr api and displays images for the item searched.",
+            "description": "A photo gallery app that retrieves data from the Flickr api and displays it in a mobile friendly format.",
             "technologies": ["REACT","AXIOS","3RD PARTY API","GIT"],
             "live_link": "https://display-photo-gallery-react.herokuapp.com/",
             "github_link": "https://github.com/Gurb-S/react_photo_gallary_app.git",
@@ -31,8 +31,8 @@
         {
             "id": 2,
             "project_name": "SQL Library Manager",
-            "description": "An book manager that allows you to create, update, and delete books.",
-            "technologies": ["SQL","NODE","PUG","GIT"],
+            "description": "A book managing app built on Node.js that allows a user to preform CRUD operations and filter through entries they have created.",
+            "technologies": ["SQL","NODE","Express","PUG","GIT"],
             "live_link": "",
             "github_link": "https://github.com/Gurb-S/sql_library_manager",
             "img_urls": {                
@@ -45,7 +45,7 @@
         {
             "id": 3,
             "project_name": "Connect to and use API",
-            "description": "Takes data from the RandomUser API (https://randomuser.me/) and creates profiles and model windows for 12 users and adds a searchabiblity function to search through users.",
+            "description": "Takes data from the RandomUser API (https://randomuser.me/) and creates profiles and modal windows for 12 users and adds a searchability function to search through users.",
             "technologies": ["HTML","CSS","JavaScript","GIT"],
             "live_link": "https://gurb-s.github.io/connect_to_and_use_a_public_api/",
             "github_link": "https://github.com/Gurb-S/connect_to_and_use_a_public_api",
@@ -59,7 +59,7 @@
         {
             "id": 4,
             "project_name": "Interactive Form",
-            "description": "This project takes a sign up form for a Full Stack Conference and adds functionality for it using JavaScript. It adds form validation for the Name, Email, Activities, and payment information fields.",
+            "description": "A sign up form for a Full Stack Conference that utilizes JavaScript to preform form validation. It adds form validation for the Name, Email, Activities, and payment information fields.",
             "technologies": ["HTML","CSS","JavaScript","GIT"],
             "live_link": "https://gurb-s.github.io/interactive_signup_form/",
             "github_link": "https://github.com/Gurb-S/interactive_signup_form",
@@ -73,7 +73,7 @@
         {
             "id": 5,
             "project_name": "List Pagination and Filtering",
-            "description": "This project displays an array of objects of random users. The info displyed include profile picture, first and last name, email address, and date joined. It also has the functionality to search users by name.",
+            "description": "This web app displays an array of objects of random users. The info displayed include profile picture, first and last name, email address, and date joined. It also has the functionality to search users by name.",
             "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "https://gurb-s.github.io/TechDegree-Project-6/",
             "github_link": "https://github.com/Gurb-S/TechDegree-Project-6",
@@ -87,7 +87,7 @@
         {
             "id": 6,
             "project_name": "Wheel of Success",
-            "description": "This program take an array of different phrases and displays one of them on the screen when the user clicks the button to start the game.",
+            "description": "This program take an array of different phrases and displays one of them randomly on the screen when the user clicks the button to start the game. The goal is to figure out the phrases by guessing letters and limiting wrong guesses to 5. ",
             "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "https://gurb-s.github.io/TechDegree-Project-5/",
             "github_link": "https://github.com/Gurb-S/TechDegree-Project-5",
